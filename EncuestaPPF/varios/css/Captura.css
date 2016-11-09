@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+	background: url(../imagenes/story-bg-5.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+img {
+	width: 100%;
+	height: auto;
+}
+p {
+	margin-top: 0;
+	text-align: inherit;
+}
+
+/*---------------------------------------------------------------
+						CLASES      
+----------------------------------------------------------------*/
+.cerrar { 
+	padding-left: 90%;
+}
+.pagina {
+	width: 85%;
+	padding: 2%;
+	margin: 0 auto;
+	background: #FFFFFF;
+}
+/*---------------------------------------------------------------
+						ID      
+----------------------------------------------------------------*/
